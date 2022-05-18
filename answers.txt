@@ -1,0 +1,14 @@
+
+1. Its something than can change shapes/take different forms
+2. Its like when you have a parent class "Vehicle", it can have a child "car" and it means car is a different form of vehicle.
+3. Interfaces
+4. As many as you want, depending on the situation i guess.
+5. When you have different classes that all share a same behaviour, you could make them all implement the same Interface
+
+
+6. composition is when you are talking about a "has a" relationship between classes/components
+7. An example could be when a room "has a" microwave, the microwave can exist without the room, so it's an example of composition
+8. aggregation is when the relationship between two things is an "is a" relationship. Like a car "is a" vehicle.
+9. 
+10. Nothing they are just no longer a part of the that object.
+11. They all break.
